@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BANK GURU " parallel="false">
+	<test name="RUn on FireFox">
+		<classes>
+			<class
+				name="com.bankguru.user.User_01_RegisterAndLoginToSystem" />
+
+		</classes>
+	</test>
+</suite> 
